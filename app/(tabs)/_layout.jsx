@@ -1,8 +1,7 @@
 import { FontAwesome } from "@expo/vector-icons";
 import MaterialIcons from '@expo/vector-icons/MaterialIcons';
 import { Tabs } from "expo-router";
-import { StyleSheet } from "react-native";
-import { View } from "react-native-web";
+import { StyleSheet, View } from "react-native";
 
 export default function TabsLayout(){
     return(
